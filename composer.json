@@ -1,0 +1,24 @@
+{
+    "name": "weijianghu/yii2-taobao",
+    "description": "The taobao plugin for the Yii framework",
+    "keywords": ["yii2", "taobao"],
+    "type": "yii2-extension",
+    "license": "BSD-3-Clause",
+    "support": {
+        "email": "76112703@qq.com"
+    },
+    "authors": [
+        {
+            "name": "weijianghu",
+            "email": "76112703@qq.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.4"
+    },
+    "autoload": {
+        "psr-4": { "yii\\taobao\\": "" }
+    },
+    "minimum-stability": "stable"
+
+}
